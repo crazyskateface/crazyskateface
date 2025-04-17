@@ -40,6 +40,9 @@ const crazyskateface = {
 ![Gemini](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)
 </div>
 
+### Game Dev
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
 # 🛠️ Monthly App Stack
 <div align="center">
 
