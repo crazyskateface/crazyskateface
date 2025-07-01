@@ -64,6 +64,8 @@ Feb: Collabin (https://github.com/crazyskateface/collabin)
 Mar: Workbru (https://github.com/crazyskateface/workbru)
 Apr: Workbru-backend (https://github.com/crazyskateface/workbru-backend)
 May: ???
+Jun: bolt hackathon projects - Workbru #2
+Jul: react-viz, SaaS template
 ```
 
 ---
