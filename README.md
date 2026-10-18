@@ -2,8 +2,6 @@
 
 > Senior Full-Stack Engineer at E. W. Scripps. I build full-stack products, developer tools, games, and useful experiments—usually taking an idea all the way from prototype to deployment.
 
-![Profile views](https://komarev.com/ghpvc/?username=crazyskateface)
-
 ## What I'm building
 
 ### [Forever Professions](https://github.com/crazyskateface/wow-forever-professions)
