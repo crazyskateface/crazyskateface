@@ -1,71 +1,57 @@
-> *"Currently building one app a month! (or next phase of the previous app)"*
+# Hey, I'm Travis 👋
 
-![](https://komarev.com/ghpvc/?username=crazyskateface)
+> Senior Full-Stack Engineer at E. W. Scripps. I build full-stack products, developer tools, games, and useful experiments—usually taking an idea all the way from prototype to deployment.
 
-## About Me
-```typescript
-const crazyskateface = {
-  role: "Sr. Full Stack Engineer @ E. W. Scripps",
-  focus: "Full Stack Development",
-  passion: "Building awesome things and having a blast"
-};
-```
+![Profile views](https://komarev.com/ghpvc/?username=crazyskateface)
 
-- 🔭 I’m currently working on ... Workbru (https://github.com/crazyskateface/workbru)
+## What I'm building
 
-## Tech Stack
-### Frontend & UI
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMSAxMmE5IDkgMCAxIDEtNi4yMTktOC41NjIiLz48L3N2Zz4=&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
-![BUN](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+### [Forever Professions](https://github.com/crazyskateface/wow-forever-professions)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+A data-driven profession leveling planner for World of Warcraft: Forever. It combines optimized leveling routes, a recipe calculator, shopping plans, auction pricing, and build-to-build recipe comparisons.
 
-### Database & Cloud Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-v2-blue)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+`TypeScript` · `React 19` · `Vite` · `Node.js` · `PostgreSQL` · `Aurora DSQL` · `AWS Lambda` · `CDK`
 
-### AI & Generative UI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/AI-powered-6f42c1?logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)
-</div>
+### [Stack PDF](https://github.com/crazyskateface/pdf-combiner)
 
-### Game Dev
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+A privacy-friendly, browser-only PDF workspace for combining documents, reviewing pages, deleting pages, and reordering the final file.
 
-# 🛠️ Monthly App Stack
-<div align="center">
+**[Try the live app →](https://crazyskateface.github.io/pdf-combiner/)**
 
-### Rapid Prototyping
-![Shadcn](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMSAxMmE5IDkgMCAxIDEtNi4yMTktOC41NjIiLz48L3N2Zz4=&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-v2-blue)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+`JavaScript` · `PDF.js` · `pdf-lib` · `GitHub Pages`
 
-<h3>My Languages and Tools:</h3>
+### [AppDesigner](https://github.com/crazyskateface/AppDesigner)
+
+An AI-assisted React app builder focused on turning product ideas into editable prototypes through direct source editing, structured project context, and grounded verification.
+
+`TypeScript` · `React` · `OpenAI` · `Vite`
+
+## More projects
+
+- 🌙 **[DarkModr](https://github.com/crazyskateface/darkmodr)** — a lightweight browser extension that remembers dark-mode preferences per site.
+- 🎮 **[mini_engine_rs](https://github.com/crazyskateface/mini_engine_rs)** — a tiny 2D game-engine starter in Rust with scenes, input, camera controls, and pixel-perfect rendering.
+- 🔍 **[React Viz](https://github.com/crazyskateface/react-viz)** — a CLI and static-analysis experiment for finding React bugs, effect loops, race conditions, and performance issues.
+- 🤝 **[Collabin](https://github.com/crazyskateface/Collabin)** — an experiment in collaborative product building.
+- 👾 **[Aliens Go Home](https://github.com/crazyskateface/aliens-go-home)** and **[T-Rex Game](https://github.com/crazyskateface/trex-game)** — small game projects built for fun and learning.
+
+## What I work with
+
+**Frontend:** TypeScript, JavaScript, React, Vite, Tailwind CSS, shadcn/ui  
+**Backend:** Node.js, Express, Python, Django, PostgreSQL, Redis  
+**Cloud & delivery:** AWS, CDK, Lambda, CloudFront, S3, Aurora DSQL, Docker, GitHub Actions  
+**Other interests:** AI-assisted development, data pipelines, static analysis, Rust, Unity, game tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,styledcomponents,sass,regex,prisma,planetscale,mysql,md,express,emotion,aws,bun,docker,npm,pnpm,redis,sentry,vitest"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,django,rust,postgres,redis,aws,docker,git,github,vite,tailwind,unity" alt="Languages and tools" />
 </p>
 
-### 📊 Monthly development breakdown
+## How I like to build
 
-```txt
-Feb: Collabin (https://github.com/crazyskateface/collabin)
-Mar: Workbru (https://github.com/crazyskateface/workbru)
-Apr: Workbru-backend (https://github.com/crazyskateface/workbru-backend)
-May: ???
-Jun: bolt hackathon projects - Workbru #2
-Jul: react-viz, SaaS template
-```
+- Start with a useful problem and ship a working vertical slice.
+- Keep domain logic testable and infrastructure reproducible.
+- Use AI as a development multiplier while keeping outputs observable and verifiable.
+- Turn experiments into real, deployed tools whenever the idea has legs.
 
 ---
+
+*Always building the next useful thing.*
