@@ -52,4 +52,4 @@ An AI-assisted React app builder focused on turning product ideas into editable 
 
 ---
 
-*Always building the next useful thing.*
+*GFuel powered and always building.*
